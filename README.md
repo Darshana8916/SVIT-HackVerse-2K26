@@ -1,7 +1,7 @@
 # 🏥 Healthcare Risk Prediction AI
-<img src="./images/risk_meter.png">
-<img src="./images/risk_distribution.png">
-<img src="./images/key_factor.png">
+<img src="./images/risk_meter.png"><hr>
+<img src="./images/risk_distribution.png"> <hr>
+<img src="./images/key_factor.png"><hr>
 <img src="./images/doc.png>
 
 A **premium AI-powered healthcare web application** that predicts patient risk levels using machine learning and provides interactive visual insights for better decision-making.
