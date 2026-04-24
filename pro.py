@@ -65,7 +65,7 @@ model.fit(X, y)
 # -----------------------------
 st.sidebar.header("🧾 Patient Details")
 
-preg = st.sidebar.slider("Pregnancies", 0, 10, 1)
+preg = st.sidebar.slider("Female", 0, 10, 1)
 glucose = st.sidebar.slider("Glucose", 50, 200, 120)
 bp = st.sidebar.slider("Blood Pressure", 50, 140, 80)
 bmi = st.sidebar.slider("BMI", 15.0, 50.0, 25.0)
